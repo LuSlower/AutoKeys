@@ -1,6 +1,6 @@
 # AutoKeys
 
-[![Total Downloads](https://img.shields.io/github/downloads/LuSlower/AutoKeys/total.svg)](https://github.com/LuSlower/AutoKeys/releases) [![PayPal Badge](https://img.shields.io/badge/PayPal-003087?logo=paypal&logoColor=fff&style=flat)](https://paypal.me/eldontweaks) 
+[![Total Downloads](https://img.shields.io/github/downloads/LuSlower/AutoKeys/total.svg)](https://github.com/LuSlower/AutoKeys/releases)
 
 A small text generator or some key combination
 
